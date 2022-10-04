@@ -10,3 +10,4 @@ function TestContent() {
         
     )
 }
+export default TestContent
